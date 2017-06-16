@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="rangeseekbar-library-0.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/064ed3f341feead5c7797459f696811fc465419e/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/064ed3f341feead5c7797459f696811fc465419e/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.florescu.android.rangeseekbar/rangeseekbar-library/0.3.0/80df649303198e9f23a04b1d36363458163f2b9c/rangeseekbar-library-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
